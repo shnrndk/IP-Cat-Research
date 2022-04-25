@@ -15,7 +15,7 @@ These are the datasets which I have prepared for this research.
 - [Download 14M IP Dataset](https://drive.google.com/file/d/1TzGUz4i6iRJy7djOUt_OnQy2ep-_6XOG/view?usp=sharing) 
 
 ### Time Series Data
-- This dataset was collected over the course of 3 month perioed Period (Dec - Feb)
+- This dataset was collected over the course of 3 month period Period (Dec - Feb -> 12 Weeks)
 - This dataset contains the 2000 IPs from Each Service Type (HTTP, TLS, AS, WhoIs)
 - File Format (Multiple Formats - CSV, JSON)
-- [Download 14M IP Dataset](https://drive.google.com/file/d/1XgKjE_ZdNIbDepD811CjzUrwRVqlE-Z7/view?usp=sharing) 
+- [Download Time Seres Datset](https://drive.google.com/file/d/1XgKjE_ZdNIbDepD811CjzUrwRVqlE-Z7/view?usp=sharing) 
