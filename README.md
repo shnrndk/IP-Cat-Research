@@ -19,3 +19,9 @@ These are the datasets which I have prepared for this research.
 - This dataset contains the 2000 IPs from Each Service Type (HTTP, TLS, AS, WhoIs)
 - File Format (Multiple Formats - CSV, JSON)
 - [Download Time Seres Datset](https://drive.google.com/file/d/1XgKjE_ZdNIbDepD811CjzUrwRVqlE-Z7/view?usp=sharing) 
+
+### Unpopular Vendor Dataset
+- This dataset contains the HTTP, TLS, ASN, Whois which are gathered from unpopular vendors.
+- This dataset contains 6500 IPs from Each Service Type
+- File Format - CSV
+- [Download Unpopular Vendor Dataset](https://drive.google.com/file/d/1oABdNwnLAjI5GrbfrWj3r6WLEOlLraKS/view?usp=sharing) 
